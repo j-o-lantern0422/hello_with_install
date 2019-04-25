@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["nishihata"]
   spec.email         = ["nishihata@pepabo.com"]
 
-  spec.summary       = %q{gemは意外と怖い}
-  spec.description   = %q{post installは怖いぞ}
+  spec.summary       = %q{post_installでできることを体感する}
+  spec.description   = %q{post_installを使うとgemのインストール処理をフックしていろいろできることを体感する}
   spec.homepage      = "https://jolantern.mugcup.xyz"
   spec.license       = "MIT"
 
